@@ -1,0 +1,7 @@
+E:\Teaching\IT\OU\HK211\LTCSDL\Code\IM91_LINQ\IM91 LINQ Console DF\IM91 LINQ Console DF\bin\Debug\IM91 LINQ Console DF.exe.config
+E:\Teaching\IT\OU\HK211\LTCSDL\Code\IM91_LINQ\IM91 LINQ Console DF\IM91 LINQ Console DF\bin\Debug\IM91 LINQ Console DF.exe
+E:\Teaching\IT\OU\HK211\LTCSDL\Code\IM91_LINQ\IM91 LINQ Console DF\IM91 LINQ Console DF\bin\Debug\IM91 LINQ Console DF.pdb
+E:\Teaching\IT\OU\HK211\LTCSDL\Code\IM91_LINQ\IM91 LINQ Console DF\IM91 LINQ Console DF\obj\Debug\IM91 LINQ Console DF.csproj.AssemblyReference.cache
+E:\Teaching\IT\OU\HK211\LTCSDL\Code\IM91_LINQ\IM91 LINQ Console DF\IM91 LINQ Console DF\obj\Debug\IM91 LINQ Console DF.csproj.CoreCompileInputs.cache
+E:\Teaching\IT\OU\HK211\LTCSDL\Code\IM91_LINQ\IM91 LINQ Console DF\IM91 LINQ Console DF\obj\Debug\IM91 LINQ Console DF.exe
+E:\Teaching\IT\OU\HK211\LTCSDL\Code\IM91_LINQ\IM91 LINQ Console DF\IM91 LINQ Console DF\obj\Debug\IM91 LINQ Console DF.pdb
